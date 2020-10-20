@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603213388 source:c:\users\user\documents\projects\empty rhombus\main.c
+	<stdio.h>
+	<stdlib.h>
+
